@@ -2,4 +2,4 @@
 
 ## Popovers
 
-[![Build status](https://ci.appveyor.com/api/projects/status/1bl22ds697xq4ypx?svg=true)](https://ci.appveyor.com/project/tashakibanova/forms-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/dp8o3ron86l5vstp?svg=true)](https://ci.appveyor.com/project/tashakibanova/forms-2-f5k5k)
